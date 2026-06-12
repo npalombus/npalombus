@@ -1,16 +1,20 @@
-## Hi there 👋
+# Nino Palombo
 
-<!--
-**npalombus/npalombus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Political science + CS at American University. I build tools where policy meets code.
 
-Here are some ideas to get you started:
+**Currently:** in Santiago, Chile — interning at AmCham Chile, where I'm building
+[Seguimiento Legislativo](https://github.com/npalombus/seguimiento-legislativo-showcase),
+a Python desktop app that automates legislative tracking for the public affairs team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Also building:** Passeig Studio — an AI-powered platform that autonomously produces
+and publishes short-form finance video content. Python/FastAPI, Next.js, Supabase.
+
+## Stack
+
+`Python` `FastAPI` `Pandas` `TypeScript` `Next.js` `React` `SQL/Supabase` `R` `GitHub Actions`
+
+## Links
+
+- 🌐 [passeigstudio.com](https://passeigstudio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/michele-palombo-3746a21a0)
+- 📫 mipalombo9@gmail.com

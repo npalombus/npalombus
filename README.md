@@ -7,7 +7,7 @@ Political science + CS at American University. I build tools where policy meets 
 a Python desktop app that automates legislative tracking for the public affairs team.
 
 **Also building:** Passeig Studio — an AI-powered platform that autonomously produces
-and publishes short-form finance video content. Python/FastAPI, Next.js, Supabase.
+and publishes short-form video content. Python/FastAPI, Next.js, Supabase.
 
 ## Stack
 

@@ -17,4 +17,4 @@ and publishes short-form video content. Python/FastAPI, Next.js, Supabase.
 
 - 🌐 [passeigstudio.com](https://passeigstudio.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/michele-palombo-3746a21a0)
-- 📫 mipalombo9@gmail.com
+- 📫 nino@passeigstudio.com
